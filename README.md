@@ -22,6 +22,7 @@ A web-based application developed using PHP and MySQL to manage and explore stud
 - Session Management
 - Role-based Access Control
 
+## 📸 Screenshots
 <img width="1894" height="865" alt="Screenshot 2026-04-04 113406" src="https://github.com/user-attachments/assets/cdfa7772-d3e3-4237-9f75-b52b7a9c0324" />
 <img width="1894" height="865" alt="Screenshot 2026-04-04 113406" src="https://github.com/user-attachments/assets/27bf2ed0-cc28-4d56-afdb-ef2864364ab9" />
 <img width="1898" height="869" alt="Screenshot 2026-04-04 114640" src="https://github.com/user-attachments/assets/0941cb9b-176b-4f88-b3c0-b26f79fdec90" />
@@ -36,4 +37,4 @@ A web-based application developed using PHP and MySQL to manage and explore stud
 [(Add your repo link)](https://github.com/mmonisha2301-ai/Student-Project-Archive-Research-Knowledge)
 
 ## 👩‍💻 Author
-Monisha
+M Monisha
